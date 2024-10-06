@@ -229,7 +229,7 @@ header {
     grid-template-rows: repeat(4, 30vh);
   }
   #descriptions p {
-    font-size: 0.6em;
+    font-size: 0.55em;
   }
   #gridItem1 {
     grid-area: 1/1;
